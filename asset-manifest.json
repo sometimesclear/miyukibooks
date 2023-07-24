@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/miyukibooks/static/css/main.392c5c03.css",
-    "main.js": "/miyukibooks/static/js/main.8e09110a.js",
-    "static/media/thriller.jpg": "/miyukibooks/static/media/thriller.12bc6ccc6fd49406f5c1.jpg",
-    "index.html": "/miyukibooks/index.html",
-    "main.392c5c03.css.map": "/miyukibooks/static/css/main.392c5c03.css.map",
-    "main.8e09110a.js.map": "/miyukibooks/static/js/main.8e09110a.js.map"
+    "main.css": "/static/css/main.59ba2d66.css",
+    "main.js": "/static/js/main.615d7aa4.js",
+    "static/media/thriller.jpg": "/static/media/thriller.12bc6ccc6fd49406f5c1.jpg",
+    "index.html": "/index.html",
+    "main.59ba2d66.css.map": "/static/css/main.59ba2d66.css.map",
+    "main.615d7aa4.js.map": "/static/js/main.615d7aa4.js.map"
   },
   "entrypoints": [
-    "static/css/main.392c5c03.css",
-    "static/js/main.8e09110a.js"
+    "static/css/main.59ba2d66.css",
+    "static/js/main.615d7aa4.js"
   ]
 }
